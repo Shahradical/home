@@ -1,0 +1,34 @@
+p
+{ 
+  text-align: center;
+  font-size: 14pt;
+  line-height: 14pt;
+  font-family: "sans-serif",Quicksand, serif;
+}
+
+ol,ul
+{
+  text-align: center;
+  font-size: 14pt;
+  line-height: 14pt;
+  font-family: "sans-serif",Quicksand, serif;
+}
+h2,h1
+{
+  text-align: center;
+  font-size: 14pt;
+  line-height: 14pt;
+  font-family: "sans-serif",Quicksand, serif;
+  text-shadow: 2px 2px 3px #ccccff;
+}
+body
+{
+background-color:  #f2e6ff
+}
+/body
+
+a 
+{
+ color: white;
+}
+
