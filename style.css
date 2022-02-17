@@ -13,7 +13,7 @@ ol,ul
   line-height: 15px;
   font-family: "sans-serif",Quicksand, serif;
 }
-h2,h1
+h2
 {
   text-align: center;
   font-size: 17px;
@@ -38,4 +38,13 @@ id
   font-size: 17px;
   line-height: 17px;
   font-family: "sans-serif",Quicksand, serif;
+}
+
+h1
+{
+  text-align: center;
+  font-size: 25px;
+  line-height: 17px;
+  font-family: "sans-serif",Quicksand, serif;
+  text-shadow: 2px 2px 3px #ccccff;
 }
