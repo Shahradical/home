@@ -119,11 +119,13 @@ img /*rounded corners :)*/
   margin-right: auto;
   width: 50%;
 }
+
 .side 
 {
   display: block;
   margin-left: 0px;
-}
+} /*This makes it so the validators aren't an eyesore*/
+
 li a:hover
 {
 background-color: rgb(103,46,130);
